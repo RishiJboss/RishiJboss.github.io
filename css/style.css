@@ -666,6 +666,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   z-index: 10;
 }
 
+#about .about-cols {
+justify-content: center;
+}
+
 #about .about-col {
   background: #fff;
   border-radius: 0 0 4px 4px;
