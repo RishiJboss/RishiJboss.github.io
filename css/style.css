@@ -7322,7 +7322,7 @@ h1, h2, h3, h4, h5,
       font-weight: 700; }
     @media (min-width: 768px) {
       .ftco-navbar-light .navbar-brand {
-        color: #fff; } }
+        color: darkblue; } }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 20px; } }
