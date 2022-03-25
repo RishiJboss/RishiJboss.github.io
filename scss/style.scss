@@ -4,6 +4,7 @@
 $font-primary: 'Open Sans',Arial, sans-serif;
 
 $white: #fff;
+$darkBlue: #00008B;
 $black: #000;
 // $darken: #3a4348;
 
@@ -124,15 +125,15 @@ h1, h2, h3, h4, h5,
 				padding-left: 20px;
 				padding-right: 20px;
 				font-weight: 400;
-				color: $white;
+				color: $darkBlue;
 				@include media-breakpoint-up(lg){
-					color: $white;
+					color: $nav-link;
 				}
 				@include media-breakpoint-down(sm){
 					padding-left: 0;
 				}
 				&:hover {
-					color: rgba(255,255,255,.8);
+					color: $darkBlue;
 				}
 				opacity: 1!important;
 			}
